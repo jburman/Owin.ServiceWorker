@@ -1,0 +1,15 @@
+﻿{
+  "name": "Full long name",
+  "short_name": "Home screen name",
+  "description": "The description",
+  "icons": [
+    {
+      "src": "/img/icon192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icon512x512.png",
+      "sizes": "512x512"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owin.ServiceWorker", "src\Owin.ServiceWorker.csproj", "{BA3AF3E5-ECB5-4930-AF0F-14D5402C1A64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owin.ServiceWorkerSample", "sample\Owin.ServiceWorkerSample\Owin.ServiceWorkerSample.csproj", "{114C3276-6551-4FFB-920A-5029F97C54A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3AF3E5-ECB5-4930-AF0F-14D5402C1A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3AF3E5-ECB5-4930-AF0F-14D5402C1A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3AF3E5-ECB5-4930-AF0F-14D5402C1A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3AF3E5-ECB5-4930-AF0F-14D5402C1A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114C3276-6551-4FFB-920A-5029F97C54A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114C3276-6551-4FFB-920A-5029F97C54A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114C3276-6551-4FFB-920A-5029F97C54A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114C3276-6551-4FFB-920A-5029F97C54A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E0B743B-9A1F-42FC-A1FD-34A9DC44A396}
+	EndGlobalSection
+EndGlobal
