@@ -10,11 +10,12 @@
     <projectUrl>https://github.com/jburman/Owin.ServiceWorker</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/jburman/Owin.ServiceWorker/master/art/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description><![CDATA[
-OWIN middleware to easily enable Service Workers on ASP.NET applications. Based on Mads Kristensen's ASP.NET Core PWA package https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker
+    <description>
+      <![CDATA[
+OWIN middleware to easily enable Service Workers on classic ASP.NET applications.
     ]]></description>
     <releaseNotes>Internal cleanup release</releaseNotes>
     <copyright>Copyright 2017</copyright>
-    <tags>serviceworker pwa</tags>
+    <tags>ASP.NET serviceworker pwa</tags>
   </metadata>
 </package>

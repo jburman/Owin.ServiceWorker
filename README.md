@@ -1,8 +1,12 @@
+[![NuGet](https://img.shields.io/nuget/v/W8lessLabs.Owin.ServiceWorker.svg)](https://www.nuget.org/packages/W8lessLabs.Owin.ServiceWorker/)
+
 ## Configure and add a Service Worker via ASP.NET OWIN Middleware
 
-***NOTE:*** Most of the Service Worker code was adapted from Mads Kristensen's ASP.NET Core package: https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker
+***NOTE:*** Most of the Service Worker code was adapted from Mads Kristensen's ASP.NET Core package: https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker.
+Please refer to his documentation regarding the various Service Worker strategies that are available.
 
-This package does not include an offline.html. This file must be provided separately by the web app.
+The main difference is that this package does not include the offline.html or manifest endpoint. Those resources must be provided separately by the web app (the Sample application demonstrates this). It also does not use the new Microsoft 
+Configuration and Dependency Injection APIs directly, but it can easily be wired up to these (or any DI container) if desired.
 
 ## Getting Started
 
