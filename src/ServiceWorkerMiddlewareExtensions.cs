@@ -3,7 +3,7 @@ using Microsoft.Owin;
 
 namespace Owin.ServiceWorker
 {
-    public static class PwaMiddlewareExtensions
+    public static class ServiceWorkerMiddlewareExtensions
     {
         public static void UseServiceWorker(this IAppBuilder builder,
             IServiceWorkerConfig config)

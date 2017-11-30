@@ -13,7 +13,7 @@
     <description><![CDATA[
 OWIN middleware to easily enable Service Workers on ASP.NET applications. Based on Mads Kristensen's ASP.NET Core PWA package https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker
     ]]></description>
-    <releaseNotes>Initial release</releaseNotes>
+    <releaseNotes>Internal cleanup release</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>serviceworker pwa</tags>
   </metadata>
