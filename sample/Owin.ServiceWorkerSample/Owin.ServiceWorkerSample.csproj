@@ -209,9 +209,9 @@
     <Content Include="Scripts\jquery-3.2.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Owin.ServiceWorker.csproj">
+    <ProjectReference Include="..\..\src\W8lessLabs.Owin.ServiceWorker.csproj">
       <Project>{ba3af3e5-ecb5-4930-af0f-14d5402c1a64}</Project>
-      <Name>Owin.ServiceWorker</Name>
+      <Name>W8lessLabs.Owin.ServiceWorker</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Owin.ServiceWorker</RootNamespace>
-    <AssemblyName>Owin.ServiceWorker</AssemblyName>
+    <AssemblyName>W8lessLabs.Owin.ServiceWorker</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

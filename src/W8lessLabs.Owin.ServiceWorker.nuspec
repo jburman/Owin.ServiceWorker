@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>W8lessLabs.Owin.ServiceWorker</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>jeremyburman</authors>
+    <owners>jeremyburman</owners>
+    <licenseUrl>https://github.com/jburman/Owin.ServiceWorker/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/jburman/Owin.ServiceWorker</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/jburman/Owin.ServiceWorker/master/art/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description><![CDATA[
+OWIN middleware to easily enable Service Workers on ASP.NET applications. Based on Mads Kristensen's ASP.NET Core PWA package https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker
+    ]]></description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>serviceworker pwa</tags>
+  </metadata>
+</package>

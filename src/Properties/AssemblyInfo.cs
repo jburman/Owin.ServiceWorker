@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Owin.ServiceWorker")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("W8lessLabs.Owin.ServiceWorker")]
+[assembly: AssemblyDescription("OWIN middleware to easily enable Service Workers on ASP.NET applications. Based on Mads Kristensen's ASP.NET Core PWA package https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Owin.ServiceWorker")]
+[assembly: AssemblyProduct("W8lessLabs.Owin.ServiceWorker")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
