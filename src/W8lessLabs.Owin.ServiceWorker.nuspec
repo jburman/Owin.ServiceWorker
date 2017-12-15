@@ -14,7 +14,7 @@
       <![CDATA[
 OWIN middleware to easily enable Service Workers on classic ASP.NET applications.
     ]]></description>
-    <releaseNotes>Internal cleanup release</releaseNotes>
+    <releaseNotes>Fix version</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>ASP.NET serviceworker pwa</tags>
   </metadata>
